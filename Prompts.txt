@@ -1,0 +1,5 @@
+Prompt 1:
+"give complete code file in java for this assignment include all given challenges of api calls and db and preapre readme file for git repository"
+
+Prompt 2:
+"Ensure the solution includes durable step memoization, SQLite thread-safety for concurrent writes, crash simulation for resume testing, and zombie-step mitigation via idempotent side effects."
